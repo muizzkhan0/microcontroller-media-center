@@ -1,0 +1,11 @@
+.\game.o: Game.c
+.\game.o: GLCD.h
+.\game.o: KBD.h
+.\game.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\game.o: LPC17xx.H
+.\game.o: core_cm3.h
+.\game.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\game.o: system_LPC17xx.h
+.\game.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\game.o: Media_Center.h
+.\game.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
